@@ -5,7 +5,7 @@
  ![image](https://github.com/LeonardoAbib/TrabalhoMarcio/assets/89111753/887153d4-35fd-441e-bedf-c3909a2727e1)
 
 
- ![Rota dinâmica](/public/dinamica.png)
+ ![image](https://github.com/LeonardoAbib/TrabalhoMarcio/assets/89111753/cb2db985-4f5c-4196-b87f-b5dba01f182f)
 
 ### Tecnologias
 
