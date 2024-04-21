@@ -8,11 +8,9 @@
 
  ![image](https://github.com/LeonardoAbib/TrabalhoMarcio/assets/89111753/cb2db985-4f5c-4196-b87f-b5dba01f182f)
 
-### Tecnologias utilizadas
-## Back-end
+## Tecnologias utilizadas
 - Node versão:v20.12.0
-## Front-end
 - HTML / CSS
-- REACT NATIVE
+- REACT NATIVE versão 10.5.0
 
 - *API*: API DE CONSULTA DE CEP : https://viacep.com.br/ws/01001000/json/
