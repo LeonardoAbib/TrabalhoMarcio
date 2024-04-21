@@ -1,0 +1,30 @@
+.formulario {
+  margin: 50px auto;
+  width: 50%;
+  max-width: 1000px;
+  padding: 10px;
+  background-color: #d3d3d3;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.cabeca {
+  background-color: #007bff;
+  color: #fff;
+  padding: 30px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  margin-bottom: 0px; 
+  justify-content: center;
+
+}
+
+h1 {
+  margin: 0;
+  align-items: center;
+}
+
+h2 {
+  padding: 40px;  
+  text-align: center;
+}

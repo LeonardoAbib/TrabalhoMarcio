@@ -1,0 +1,79 @@
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: linear-gradient(white);
+}
+
+.title {
+    font-size: 85px;
+    color: #000;;
+    animation: fliptitle 2s;
+}
+
+
+.containerInput {
+    background-color: #d3d3d3;
+    padding: 15px;
+    margin: 34px 0;
+    display: flex;
+    border-radius: 25px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.containerInput input {
+    background-color: transparent;
+    border: 0;
+    font-size: 20px;
+    color: #333;
+    outline: none;
+    margin-right: 8px;
+}
+
+.containerInput input::placeholder {
+    color: #888;
+}
+
+.botao {
+    background-color: #808080;
+    border: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: transform 0.5s;
+    padding: 12px 24px;
+    border-radius: 25px;
+    color: #fff;
+}
+
+.botao:hover {
+    transform: scale(1.1);
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #d3d3d3;
+    width: 500px;
+    border-radius: 25px;
+    padding: 20px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.main h2 {
+    margin: 16px 0 0;
+    font-size: 32px;
+    color: #333;
+    padding: 5px;
+}
+
+.main span {
+    margin-bottom: 16px;
+    font-weight: bold;
+    color: #000000;
+}
