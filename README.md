@@ -10,7 +10,7 @@
 
 ## Tecnologias utilizadas
 - Node versão:v20.12.0
-- HTML / CSS
+- HTML / CSS / javaScript
 - REACT NATIVE versão 10.5.0
 
 - *API*: API DE CONSULTA DE CEP : https://viacep.com.br/ws/01001000/json/
