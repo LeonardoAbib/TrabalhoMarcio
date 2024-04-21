@@ -2,7 +2,8 @@
 
 - *Link do projeto:* : https://trabalho-marcio.vercel.app/
 
- ![Página Inicial](/public/inicio.png)
+ ![image](https://github.com/LeonardoAbib/TrabalhoMarcio/assets/89111753/887153d4-35fd-441e-bedf-c3909a2727e1)
+
 
  ![Rota dinâmica](/public/dinamica.png)
 
