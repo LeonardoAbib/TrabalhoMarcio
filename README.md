@@ -12,5 +12,3 @@
 - Node versão:v20.12.0 
 
 - *API*: API DE CONSULTA DE CEP : https://viacep.com.br/ws/01001000/json/
-
-- *Axios*: Uma biblioteca para fazer solicitações HTTP.
